@@ -1,3 +1,5 @@
+![logo]( images.webp "Logo Title Text 2")
+
 # John Doe
 📍 City, State | 📞 (123) 456-7890 | 📧 john.doe@email.com | 🌐 linkedin.com/in/johndoe
 
