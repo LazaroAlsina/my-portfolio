@@ -1,4 +1,6 @@
-![logo]( images.webp "Logo Title Text 2")
+<div align="center">
+  <img src="images.webp" width="300" height="300" />
+</div>
 
 # John Doe
 📍 City, State | 📞 (123) 456-7890 | 📧 john.doe@email.com | 🌐 linkedin.com/in/johndoe
